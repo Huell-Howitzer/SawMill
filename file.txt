@@ -1,0 +1,15 @@
+.
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── file.txt
+├── LICENSE
+├── main.py
+├── Makefile
+├── MANIFEST.in
+├── pyproject.toml
+├── README.md
+├── requirements.txt
+├── src
+└── tests
+
+2 directories, 10 files
